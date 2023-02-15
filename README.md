@@ -1,6 +1,6 @@
 # CRUD-Operations
 Here I did CRUD operations using fetch. 
-# Steps
+## Steps
    When you run the project you can see that login page and registeration link   is also there,
       1- Register
       2- Login email & password
