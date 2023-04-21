@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import dashbord_img from '../images/dashbord_img.png';
 console.log(localStorage)
     let userName= localStorage.getItem("name")
-    
+   
 const Dashboard = () =>{
     const logout = () =>{
         localStorage.clear();//it clear history of browser
